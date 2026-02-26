@@ -1,0 +1,601 @@
+Order_ID,Product,Category,Region,Supplier,Supplier_Rating,Customer_Rating,Cost,Price,Demand,Inventory_Level,Reorder_Point,Lead_Time_Days,Return_Rate,Damage_Rate,Warehouse_Capacity,Stockout
+ORD-10000,Printer,Networking,West,OmniTrade,3.61,2.3,368.36,650.34,112,106,121,22,0.069,0.027,500,1
+ORD-10001,Headphones,Networking,East,PrimeSupply Co,3.03,2.55,171.44,266.7,167,308,51,13,0.028,0.024,500,0
+ORD-10002,Router,Electronics,West,NextGen Wholesale,3.42,3.37,496.04,695.63,197,48,140,11,0.118,0.016,500,1
+ORD-10003,Tablet,Electronics,South,GlobalParts Inc,3.63,2.04,487.1,737.81,30,130,100,8,0.141,0.045,500,0
+ORD-10004,Router,Electronics,North,NextGen Wholesale,2.81,3.49,377.6,419.58,197,385,133,16,0.005,0.073,500,0
+ORD-10005,Headphones,Electronics,West,PrimeSupply Co,3.92,2.09,269.96,422.15,115,1,55,23,0.126,0.036,500,1
+ORD-10006,Phone,Networking,South,NextGen Wholesale,3.31,3.17,385.88,674.77,199,350,97,16,0.041,0.066,500,0
+ORD-10007,Camera,Electronics,East,GlobalParts Inc,2.69,4.96,353.24,458.03,54,379,90,16,0.116,0.016,500,0
+ORD-10008,Router,Networking,North,PrimeSupply Co,4.43,2.22,54.69,91.38,172,80,57,4,0.054,0.009,500,0
+ORD-10009,Phone,Peripherals,East,GlobalParts Inc,4.17,4.0,783.64,1203.91,160,417,82,17,0.089,0.022,500,0
+ORD-10010,Mouse,Peripherals,South,PrimeSupply Co,4.3,2.71,527.06,721.04,10,430,127,4,0.038,0.003,500,0
+ORD-10011,Phone,Peripherals,North,OmniTrade,4.74,3.43,654.06,770.24,72,379,126,20,0.084,0.056,500,0
+ORD-10012,Monitor,Peripherals,West,PrimeSupply Co,2.69,2.87,168.43,256.53,22,142,92,5,0.024,0.074,500,0
+ORD-10013,Router,Peripherals,East,GlobalParts Inc,3.54,4.65,736.9,1137.32,53,133,77,13,0.049,0.01,500,0
+ORD-10014,Printer,Networking,East,OmniTrade,2.52,3.53,352.85,612.12,12,384,76,21,0.063,0.018,500,0
+ORD-10015,Phone,Peripherals,East,NextGen Wholesale,3.8,4.11,151.89,202.98,169,462,108,23,0.055,0.078,500,0
+ORD-10016,Laptop,Electronics,South,OmniTrade,3.21,2.11,868.08,1107.89,110,385,52,18,0.091,0.04,500,0
+ORD-10017,Printer,Accessories,North,TechSource Ltd,2.86,3.47,93.76,121.42,135,224,50,20,0.148,0.019,500,0
+ORD-10018,Camera,Accessories,West,NextGen Wholesale,3.68,4.95,621.32,1014.7,33,122,66,7,0.06,0.065,500,0
+ORD-10019,Phone,Peripherals,West,GlobalParts Inc,4.65,2.98,728.59,878.32,102,186,119,17,0.033,0.057,500,0
+ORD-10020,Phone,Peripherals,West,PrimeSupply Co,3.49,3.55,738.08,992.03,170,198,101,10,0.126,0.054,500,0
+ORD-10021,Printer,Electronics,North,NextGen Wholesale,3.07,2.52,674.93,841.2,108,414,143,11,0.147,0.041,500,0
+ORD-10022,Headphones,Peripherals,West,TechSource Ltd,4.71,2.57,271.7,488.35,46,253,61,6,0.042,0.056,500,0
+ORD-10023,Tablet,Networking,North,NextGen Wholesale,4.84,4.36,769.66,1307.98,84,53,82,21,0.1,0.046,500,1
+ORD-10024,Monitor,Peripherals,South,PrimeSupply Co,3.26,3.46,366.44,644.24,137,152,142,19,0.067,0.08,500,0
+ORD-10025,Mouse,Networking,West,TechSource Ltd,3.42,4.23,199.54,222.02,157,397,70,17,0.108,0.025,500,0
+ORD-10026,Laptop,Accessories,West,OmniTrade,4.93,3.18,511.16,744.34,167,469,71,15,0.134,0.05,500,0
+ORD-10027,Headphones,Networking,North,GlobalParts Inc,3.75,3.72,725.59,1053.44,70,283,113,2,0.115,0.003,500,0
+ORD-10028,Router,Electronics,East,NextGen Wholesale,2.54,4.78,895.37,1279.45,133,45,55,4,0.064,0.077,500,1
+ORD-10029,Keyboard,Accessories,North,NextGen Wholesale,3.29,2.51,869.08,1474.92,170,190,134,24,0.084,0.075,500,0
+ORD-10030,Tablet,Peripherals,East,TechSource Ltd,3.4,2.76,641.63,961.83,95,279,81,16,0.044,0.026,500,0
+ORD-10031,Camera,Electronics,South,GlobalParts Inc,4.52,4.43,771.37,922.28,179,245,97,8,0.13,0.073,500,0
+ORD-10032,Phone,Peripherals,North,PrimeSupply Co,4.25,4.39,484.64,703.24,17,172,69,2,0.134,0.027,500,0
+ORD-10033,Camera,Peripherals,South,NextGen Wholesale,3.66,3.63,369.25,430.47,60,214,112,23,0.043,0.047,500,0
+ORD-10034,Camera,Electronics,North,GlobalParts Inc,3.32,4.48,75.93,85.51,197,325,64,23,0.041,0.077,500,0
+ORD-10035,Keyboard,Networking,South,PrimeSupply Co,4.09,4.18,438.68,741.11,108,479,143,16,0.146,0.041,500,0
+ORD-10036,Tablet,Peripherals,West,PrimeSupply Co,2.56,4.89,324.51,537.59,99,318,68,24,0.125,0.056,500,0
+ORD-10037,Mouse,Accessories,West,OmniTrade,2.96,4.8,397.61,485.6,57,0,83,23,0.096,0.041,500,1
+ORD-10038,Monitor,Peripherals,North,OmniTrade,3.39,4.27,608.54,854.98,163,348,116,13,0.002,0.009,500,0
+ORD-10039,Printer,Accessories,North,OmniTrade,2.74,3.47,89.1,100.55,153,237,111,21,0.071,0.014,500,0
+ORD-10040,Router,Accessories,East,OmniTrade,3.15,2.05,418.77,577.46,43,9,118,5,0.14,0.04,500,1
+ORD-10041,Monitor,Accessories,West,TechSource Ltd,2.57,3.76,508.47,802.76,11,15,73,17,0.141,0.046,500,1
+ORD-10042,Headphones,Networking,North,NextGen Wholesale,4.85,3.16,379.94,589.02,180,416,110,20,0.144,0.072,500,0
+ORD-10043,Keyboard,Electronics,West,PrimeSupply Co,3.34,3.97,216.42,248.57,44,94,95,3,0.058,0.055,500,1
+ORD-10044,Headphones,Electronics,North,NextGen Wholesale,4.07,4.63,339.53,435.44,123,390,117,22,0.11,0.064,500,0
+ORD-10045,Tablet,Peripherals,South,GlobalParts Inc,4.33,2.38,289.73,354.69,186,456,73,4,0.038,0.046,500,0
+ORD-10046,Router,Accessories,East,NextGen Wholesale,4.39,2.31,787.05,1175.31,32,267,104,14,0.135,0.04,500,0
+ORD-10047,Tablet,Electronics,East,GlobalParts Inc,2.53,4.72,752.49,996.32,109,186,68,18,0.014,0.026,500,0
+ORD-10048,Monitor,Networking,East,TechSource Ltd,3.23,2.99,857.55,1513.94,78,338,65,22,0.101,0.06,500,0
+ORD-10049,Printer,Peripherals,West,TechSource Ltd,2.64,3.65,722.84,1194.66,195,108,102,11,0.066,0.071,500,0
+ORD-10050,Keyboard,Networking,East,NextGen Wholesale,4.05,2.3,348.28,411.65,195,75,58,11,0.013,0.056,500,0
+ORD-10051,Printer,Networking,North,NextGen Wholesale,2.71,4.96,111.85,187.38,38,121,115,6,0.056,0.03,500,0
+ORD-10052,Headphones,Peripherals,East,NextGen Wholesale,3.44,2.25,740.88,1306.23,45,216,94,5,0.117,0.045,500,0
+ORD-10053,Headphones,Accessories,West,OmniTrade,3.51,3.71,410.59,712.15,150,38,116,14,0.111,0.061,500,1
+ORD-10054,Keyboard,Peripherals,East,PrimeSupply Co,4.67,2.67,749.37,1214.69,162,386,126,18,0.144,0.001,500,0
+ORD-10055,Router,Electronics,North,TechSource Ltd,3.88,4.91,874.4,988.26,173,148,129,23,0.078,0.05,500,0
+ORD-10056,Phone,Peripherals,North,TechSource Ltd,4.75,2.14,641.39,909.61,12,372,103,23,0.042,0.076,500,0
+ORD-10057,Mouse,Electronics,West,OmniTrade,3.47,2.69,806.72,1144.7,99,155,57,5,0.04,0.029,500,0
+ORD-10058,Printer,Electronics,East,OmniTrade,3.53,3.81,270.96,384.02,170,446,66,10,0.041,0.011,500,0
+ORD-10059,Keyboard,Accessories,West,GlobalParts Inc,3.55,4.8,114.77,201.81,162,370,118,16,0.13,0.004,500,0
+ORD-10060,Printer,Electronics,South,NextGen Wholesale,3.44,4.25,72.41,98.73,186,64,67,16,0.059,0.066,500,1
+ORD-10061,Mouse,Networking,West,TechSource Ltd,2.64,4.59,533.72,610.82,158,104,148,2,0.122,0.08,500,1
+ORD-10062,Keyboard,Electronics,East,NextGen Wholesale,3.12,3.35,897.14,1335.66,92,484,102,6,0.019,0.076,500,0
+ORD-10063,Tablet,Networking,East,OmniTrade,3.17,2.07,565.25,712.24,101,368,81,3,0.075,0.038,500,0
+ORD-10064,Camera,Peripherals,South,PrimeSupply Co,2.72,4.38,756.67,995.36,142,448,103,13,0.088,0.038,500,0
+ORD-10065,Laptop,Electronics,North,NextGen Wholesale,4.76,3.85,407.46,672.01,188,397,115,12,0.147,0.049,500,0
+ORD-10066,Laptop,Networking,East,GlobalParts Inc,3.87,3.35,591.15,879.85,61,434,112,3,0.137,0.024,500,0
+ORD-10067,Monitor,Peripherals,South,GlobalParts Inc,4.61,4.31,495.06,786.33,193,284,53,11,0.01,0.004,500,0
+ORD-10068,Printer,Accessories,West,NextGen Wholesale,3.84,3.38,577.68,775.93,124,125,92,17,0.088,0.032,500,0
+ORD-10069,Laptop,Peripherals,South,OmniTrade,3.68,4.0,643.02,788.37,105,387,105,4,0.026,0.015,500,0
+ORD-10070,Keyboard,Peripherals,East,GlobalParts Inc,3.87,3.6,84.74,103.23,158,91,91,23,0.053,0.072,500,0
+ORD-10071,Printer,Peripherals,South,GlobalParts Inc,4.22,3.53,159.44,212.23,130,410,122,16,0.024,0.03,500,0
+ORD-10072,Phone,Electronics,West,GlobalParts Inc,3.43,3.45,52.21,89.16,56,7,148,21,0.093,0.03,500,1
+ORD-10073,Camera,Accessories,East,OmniTrade,4.22,4.53,443.15,719.33,16,13,108,20,0.112,0.002,500,1
+ORD-10074,Tablet,Electronics,North,TechSource Ltd,2.55,2.97,787.13,1060.97,37,370,64,24,0.032,0.026,500,0
+ORD-10075,Keyboard,Accessories,North,TechSource Ltd,4.47,3.5,151.8,261.61,147,211,74,5,0.013,0.043,500,0
+ORD-10076,Router,Electronics,West,OmniTrade,3.34,4.7,548.81,890.06,178,368,132,11,0.091,0.02,500,0
+ORD-10077,Laptop,Peripherals,East,GlobalParts Inc,3.06,3.1,473.51,630.36,159,376,82,22,0.073,0.068,500,0
+ORD-10078,Headphones,Accessories,East,GlobalParts Inc,3.81,3.23,124.7,207.51,140,151,104,10,0.147,0.009,500,0
+ORD-10079,Tablet,Accessories,West,OmniTrade,3.14,2.51,388.18,690.43,127,3,128,7,0.1,0.074,500,1
+ORD-10080,Camera,Networking,North,TechSource Ltd,2.97,2.97,523.25,784.94,142,434,94,13,0.064,0.041,500,0
+ORD-10081,Headphones,Electronics,North,TechSource Ltd,3.77,4.8,256.05,302.24,46,89,63,7,0.048,0.048,500,0
+ORD-10082,Mouse,Electronics,North,OmniTrade,3.0,4.05,363.85,515.93,181,260,72,11,0.013,0.011,500,0
+ORD-10083,Headphones,Networking,South,PrimeSupply Co,3.37,4.79,52.3,61.8,172,398,73,7,0.125,0.077,500,0
+ORD-10084,Phone,Peripherals,East,TechSource Ltd,4.82,4.16,155.65,250.85,44,136,83,13,0.007,0.063,500,0
+ORD-10085,Tablet,Electronics,West,NextGen Wholesale,4.54,4.0,753.75,1225.11,174,315,79,4,0.078,0.029,500,0
+ORD-10086,Laptop,Electronics,West,NextGen Wholesale,3.44,3.39,795.62,1093.75,113,295,121,8,0.045,0.06,500,0
+ORD-10087,Phone,Peripherals,West,GlobalParts Inc,4.77,3.87,477.31,602.63,62,224,115,15,0.018,0.075,500,0
+ORD-10088,Monitor,Accessories,South,NextGen Wholesale,3.74,4.22,583.55,778.71,166,447,64,16,0.086,0.08,500,0
+ORD-10089,Camera,Accessories,North,TechSource Ltd,4.29,3.48,689.54,1099.74,95,410,104,2,0.113,0.008,500,0
+ORD-10090,Phone,Networking,West,PrimeSupply Co,3.76,3.62,506.01,690.79,193,364,137,21,0.073,0.033,500,0
+ORD-10091,Router,Electronics,South,OmniTrade,3.13,3.04,706.1,782.74,35,114,85,5,0.027,0.073,500,0
+ORD-10092,Printer,Electronics,South,PrimeSupply Co,2.88,3.76,545.88,753.64,116,302,139,15,0.076,0.049,500,0
+ORD-10093,Router,Electronics,South,TechSource Ltd,4.48,2.07,65.39,111.85,77,459,149,17,0.098,0.062,500,0
+ORD-10094,Tablet,Electronics,South,PrimeSupply Co,4.6,4.73,368.27,422.86,49,50,78,15,0.018,0.019,500,1
+ORD-10095,Laptop,Accessories,South,PrimeSupply Co,3.28,2.68,190.69,234.63,72,470,106,2,0.091,0.03,500,0
+ORD-10096,Phone,Networking,East,GlobalParts Inc,3.5,3.61,682.61,849.1,44,312,75,10,0.138,0.028,500,0
+ORD-10097,Mouse,Electronics,East,GlobalParts Inc,3.12,3.73,344.91,557.46,188,16,92,13,0.025,0.003,500,1
+ORD-10098,Printer,Peripherals,West,PrimeSupply Co,2.95,4.88,314.75,518.19,58,490,71,19,0.022,0.033,500,0
+ORD-10099,Keyboard,Peripherals,South,OmniTrade,3.49,3.28,122.55,220.32,150,48,120,2,0.12,0.028,500,1
+ORD-10100,Camera,Accessories,East,GlobalParts Inc,3.97,2.88,448.0,688.79,177,476,79,17,0.107,0.042,500,0
+ORD-10101,Keyboard,Networking,South,TechSource Ltd,2.76,3.0,504.29,724.54,72,221,87,20,0.011,0.06,500,0
+ORD-10102,Tablet,Peripherals,West,NextGen Wholesale,2.89,4.15,281.46,486.42,64,161,146,24,0.099,0.002,500,0
+ORD-10103,Keyboard,Networking,East,OmniTrade,4.72,3.67,238.68,301.16,76,442,121,23,0.108,0.064,500,0
+ORD-10104,Router,Peripherals,West,TechSource Ltd,2.85,3.22,890.42,1355.43,174,301,65,5,0.049,0.007,500,0
+ORD-10105,Tablet,Networking,East,OmniTrade,4.69,3.93,588.25,950.1,134,84,68,17,0.106,0.073,500,0
+ORD-10106,Phone,Accessories,North,NextGen Wholesale,3.17,3.87,581.05,775.76,128,385,116,24,0.061,0.044,500,0
+ORD-10107,Printer,Peripherals,East,PrimeSupply Co,2.79,3.7,420.71,549.5,33,499,135,13,0.148,0.038,500,0
+ORD-10108,Router,Networking,West,OmniTrade,4.25,3.21,204.79,294.76,49,208,63,10,0.033,0.052,500,0
+ORD-10109,Laptop,Accessories,East,TechSource Ltd,2.55,4.74,408.45,487.11,46,28,147,24,0.018,0.046,500,1
+ORD-10110,Keyboard,Networking,South,GlobalParts Inc,2.53,2.41,282.95,421.01,126,152,125,24,0.135,0.07,500,0
+ORD-10111,Phone,Networking,East,GlobalParts Inc,4.6,3.21,557.8,848.06,182,308,120,11,0.116,0.034,500,0
+ORD-10112,Headphones,Electronics,North,PrimeSupply Co,4.43,2.2,350.79,621.26,45,192,100,22,0.126,0.035,500,0
+ORD-10113,Monitor,Networking,South,TechSource Ltd,3.49,4.86,828.19,1329.31,107,231,148,23,0.02,0.039,500,0
+ORD-10114,Mouse,Networking,South,OmniTrade,3.74,3.79,279.42,412.95,90,466,148,21,0.05,0.062,500,0
+ORD-10115,Printer,Peripherals,East,TechSource Ltd,3.59,2.74,140.61,162.07,113,16,50,12,0.123,0.064,500,1
+ORD-10116,Router,Accessories,North,GlobalParts Inc,2.73,4.75,640.49,826.55,110,353,61,20,0.021,0.076,500,0
+ORD-10117,Printer,Electronics,West,PrimeSupply Co,4.1,4.28,429.1,527.62,17,317,129,20,0.109,0.051,500,0
+ORD-10118,Keyboard,Networking,South,PrimeSupply Co,4.17,2.13,883.49,1530.52,118,267,64,10,0.088,0.08,500,0
+ORD-10119,Tablet,Peripherals,West,TechSource Ltd,4.33,2.58,522.44,747.74,126,390,63,16,0.017,0.034,500,0
+ORD-10120,Laptop,Peripherals,North,PrimeSupply Co,3.81,3.93,726.04,1177.31,155,371,88,4,0.098,0.029,500,0
+ORD-10121,Phone,Accessories,East,NextGen Wholesale,3.6,3.21,526.58,756.56,177,130,86,12,0.086,0.064,500,0
+ORD-10122,Router,Accessories,North,NextGen Wholesale,3.57,4.63,507.64,793.52,25,396,131,2,0.063,0.037,500,0
+ORD-10123,Camera,Electronics,West,TechSource Ltd,4.83,2.21,891.79,981.12,169,268,62,19,0.001,0.004,500,0
+ORD-10124,Camera,Peripherals,North,GlobalParts Inc,3.18,3.19,125.26,141.08,193,235,106,17,0.014,0.027,500,0
+ORD-10125,Printer,Electronics,East,OmniTrade,3.24,4.56,494.14,796.85,151,176,52,14,0.107,0.047,500,0
+ORD-10126,Laptop,Peripherals,North,TechSource Ltd,3.48,2.37,285.68,496.29,58,462,122,16,0.143,0.064,500,0
+ORD-10127,Keyboard,Networking,East,PrimeSupply Co,3.67,3.84,270.14,408.45,97,294,105,15,0.025,0.079,500,0
+ORD-10128,Monitor,Electronics,East,NextGen Wholesale,3.08,2.53,246.92,434.56,119,62,103,22,0.033,0.015,500,1
+ORD-10129,Mouse,Electronics,West,OmniTrade,3.8,3.79,712.65,958.58,186,260,103,16,0.079,0.021,500,0
+ORD-10130,Camera,Peripherals,North,NextGen Wholesale,3.66,3.87,487.96,704.53,169,144,137,4,0.112,0.003,500,0
+ORD-10131,Monitor,Electronics,North,OmniTrade,2.82,4.67,810.68,1379.85,132,266,105,4,0.143,0.069,500,0
+ORD-10132,Tablet,Electronics,South,TechSource Ltd,3.43,2.78,738.09,1150.44,133,260,60,3,0.109,0.04,500,0
+ORD-10133,Phone,Peripherals,South,PrimeSupply Co,2.65,4.65,118.89,149.1,90,460,77,6,0.077,0.073,500,0
+ORD-10134,Headphones,Accessories,East,TechSource Ltd,4.7,4.39,535.62,837.43,42,39,140,14,0.099,0.068,500,1
+ORD-10135,Printer,Electronics,East,TechSource Ltd,2.76,4.1,787.2,1256.26,179,362,94,22,0.028,0.071,500,0
+ORD-10136,Laptop,Electronics,East,TechSource Ltd,4.55,2.69,867.12,1236.36,147,30,72,11,0.136,0.0,500,1
+ORD-10137,Phone,Networking,West,PrimeSupply Co,4.04,4.94,522.75,851.9,22,11,88,3,0.095,0.021,500,1
+ORD-10138,Camera,Accessories,West,GlobalParts Inc,2.55,3.3,588.9,870.39,167,162,119,20,0.126,0.031,500,0
+ORD-10139,Phone,Networking,South,GlobalParts Inc,4.43,4.84,202.57,329.7,105,277,117,21,0.025,0.062,500,0
+ORD-10140,Router,Peripherals,North,NextGen Wholesale,4.98,4.03,652.29,933.75,59,21,139,19,0.067,0.052,500,1
+ORD-10141,Printer,Accessories,West,OmniTrade,3.43,4.46,555.24,759.86,143,28,60,2,0.038,0.0,500,1
+ORD-10142,Mouse,Networking,West,PrimeSupply Co,4.64,3.58,185.1,264.32,150,3,130,4,0.124,0.024,500,1
+ORD-10143,Tablet,Networking,East,TechSource Ltd,4.67,4.89,763.96,1253.64,36,83,71,12,0.005,0.059,500,0
+ORD-10144,Phone,Accessories,South,PrimeSupply Co,3.61,2.94,823.1,1399.4,194,83,55,20,0.048,0.058,500,0
+ORD-10145,Phone,Peripherals,North,TechSource Ltd,4.66,3.42,683.96,848.28,27,496,74,13,0.145,0.015,500,0
+ORD-10146,Tablet,Accessories,West,TechSource Ltd,4.4,3.88,788.33,1295.71,59,78,76,15,0.02,0.003,500,0
+ORD-10147,Keyboard,Peripherals,North,GlobalParts Inc,4.02,2.74,832.72,1275.44,26,45,64,15,0.084,0.018,500,1
+ORD-10148,Monitor,Networking,East,GlobalParts Inc,4.96,2.45,186.7,290.52,148,116,51,9,0.07,0.054,500,0
+ORD-10149,Mouse,Electronics,South,GlobalParts Inc,4.39,4.86,386.21,688.34,54,165,81,12,0.136,0.058,500,0
+ORD-10150,Tablet,Peripherals,West,PrimeSupply Co,3.71,2.63,686.79,825.62,89,75,95,16,0.052,0.062,500,1
+ORD-10151,Router,Accessories,West,OmniTrade,2.58,2.24,850.05,978.15,167,224,82,10,0.06,0.011,500,0
+ORD-10152,Tablet,Networking,West,TechSource Ltd,2.92,2.31,532.41,842.61,115,497,64,3,0.095,0.057,500,0
+ORD-10153,Headphones,Electronics,South,PrimeSupply Co,4.84,4.84,76.85,134.9,123,358,144,10,0.094,0.063,500,0
+ORD-10154,Mouse,Electronics,South,TechSource Ltd,3.99,4.35,570.42,820.88,141,458,133,17,0.072,0.003,500,0
+ORD-10155,Laptop,Accessories,East,NextGen Wholesale,2.9,4.62,189.4,266.49,21,465,61,24,0.033,0.078,500,0
+ORD-10156,Laptop,Peripherals,East,NextGen Wholesale,3.75,3.67,336.36,412.88,41,118,102,24,0.108,0.018,500,0
+ORD-10157,Camera,Electronics,East,TechSource Ltd,3.05,3.26,896.88,1598.56,44,130,77,11,0.031,0.067,500,0
+ORD-10158,Keyboard,Accessories,West,GlobalParts Inc,3.36,3.11,198.06,351.07,46,441,110,21,0.148,0.003,500,0
+ORD-10159,Printer,Networking,North,NextGen Wholesale,3.99,4.38,786.98,1184.46,75,419,147,5,0.098,0.079,500,0
+ORD-10160,Mouse,Networking,North,PrimeSupply Co,4.33,2.39,291.28,393.64,30,130,67,9,0.107,0.073,500,0
+ORD-10161,Laptop,Peripherals,South,NextGen Wholesale,4.64,3.48,202.73,256.71,46,333,51,24,0.037,0.07,500,0
+ORD-10162,Camera,Peripherals,South,GlobalParts Inc,4.13,2.94,428.51,625.78,79,472,133,3,0.06,0.069,500,0
+ORD-10163,Router,Peripherals,West,PrimeSupply Co,3.09,2.7,57.68,87.21,54,459,105,5,0.133,0.035,500,0
+ORD-10164,Phone,Accessories,North,TechSource Ltd,3.62,3.76,331.26,468.45,10,331,143,10,0.142,0.02,500,0
+ORD-10165,Tablet,Electronics,North,TechSource Ltd,4.45,4.12,355.36,485.26,174,106,86,16,0.067,0.069,500,0
+ORD-10166,Router,Accessories,North,PrimeSupply Co,4.84,2.12,524.42,775.06,46,403,127,3,0.018,0.036,500,0
+ORD-10167,Printer,Networking,South,TechSource Ltd,2.87,4.96,843.79,1114.91,21,496,100,15,0.145,0.0,500,0
+ORD-10168,Router,Peripherals,West,NextGen Wholesale,3.72,4.0,859.04,1329.26,180,184,88,16,0.021,0.002,500,0
+ORD-10169,Phone,Networking,West,GlobalParts Inc,2.73,4.02,311.74,496.69,94,233,57,19,0.067,0.069,500,0
+ORD-10170,Tablet,Accessories,East,GlobalParts Inc,3.74,3.85,200.58,317.89,167,310,139,12,0.13,0.046,500,0
+ORD-10171,Camera,Networking,North,OmniTrade,3.04,3.98,75.83,132.83,10,301,117,2,0.059,0.052,500,0
+ORD-10172,Phone,Peripherals,East,GlobalParts Inc,4.94,3.22,140.6,219.41,72,497,113,7,0.131,0.063,500,0
+ORD-10173,Tablet,Networking,North,GlobalParts Inc,4.17,4.42,531.96,860.13,141,323,147,7,0.114,0.064,500,0
+ORD-10174,Headphones,Networking,West,GlobalParts Inc,3.32,3.89,420.25,702.86,98,343,103,8,0.091,0.045,500,0
+ORD-10175,Headphones,Peripherals,West,TechSource Ltd,3.07,2.22,373.36,554.05,44,416,98,18,0.091,0.053,500,0
+ORD-10176,Monitor,Accessories,East,TechSource Ltd,4.62,4.74,576.57,821.29,57,2,134,9,0.122,0.009,500,1
+ORD-10177,Phone,Electronics,East,GlobalParts Inc,3.49,3.65,176.64,259.42,24,462,93,5,0.112,0.057,500,0
+ORD-10178,Mouse,Electronics,West,OmniTrade,4.75,2.73,493.05,826.19,126,106,129,16,0.139,0.005,500,1
+ORD-10179,Tablet,Electronics,North,NextGen Wholesale,3.21,2.92,844.27,1136.5,126,289,127,5,0.12,0.043,500,0
+ORD-10180,Laptop,Networking,South,OmniTrade,3.53,2.37,314.61,480.48,86,145,51,18,0.027,0.054,500,0
+ORD-10181,Printer,Accessories,South,OmniTrade,2.96,4.75,204.22,299.72,179,70,112,18,0.064,0.007,500,1
+ORD-10182,Phone,Networking,East,TechSource Ltd,4.09,3.55,743.39,1012.09,128,172,96,14,0.089,0.063,500,0
+ORD-10183,Mouse,Networking,East,NextGen Wholesale,3.38,2.71,599.62,732.94,161,120,91,9,0.117,0.022,500,0
+ORD-10184,Mouse,Networking,West,PrimeSupply Co,4.06,3.36,749.22,1046.37,156,201,138,19,0.088,0.013,500,0
+ORD-10185,Laptop,Networking,East,PrimeSupply Co,2.56,3.93,676.34,1152.45,159,118,70,18,0.091,0.044,500,0
+ORD-10186,Printer,Peripherals,North,OmniTrade,2.84,4.09,247.16,339.51,73,440,74,3,0.061,0.034,500,0
+ORD-10187,Camera,Electronics,South,OmniTrade,4.01,3.01,659.96,1045.84,28,486,73,15,0.136,0.062,500,0
+ORD-10188,Keyboard,Accessories,East,GlobalParts Inc,3.42,3.03,275.16,426.97,145,163,52,10,0.093,0.035,500,0
+ORD-10189,Mouse,Accessories,West,TechSource Ltd,4.7,3.95,757.08,1187.65,17,427,76,22,0.08,0.026,500,0
+ORD-10190,Monitor,Electronics,South,GlobalParts Inc,3.89,4.19,333.05,522.44,111,214,93,3,0.07,0.005,500,0
+ORD-10191,Keyboard,Networking,West,TechSource Ltd,3.84,2.29,527.95,934.65,64,332,142,16,0.068,0.06,500,0
+ORD-10192,Printer,Networking,East,GlobalParts Inc,3.09,3.2,345.44,540.76,39,467,52,17,0.023,0.079,500,0
+ORD-10193,Monitor,Peripherals,East,NextGen Wholesale,4.06,2.27,837.95,1238.46,93,120,79,22,0.113,0.01,500,0
+ORD-10194,Camera,Electronics,East,GlobalParts Inc,3.16,3.08,752.16,1239.12,160,225,63,5,0.013,0.075,500,0
+ORD-10195,Router,Peripherals,West,TechSource Ltd,4.0,3.55,520.73,684.17,163,179,111,24,0.138,0.04,500,0
+ORD-10196,Router,Networking,North,PrimeSupply Co,2.79,4.45,893.33,1515.09,58,489,61,16,0.057,0.07,500,0
+ORD-10197,Laptop,Accessories,West,NextGen Wholesale,2.7,3.21,787.85,1311.1,23,335,56,21,0.026,0.056,500,0
+ORD-10198,Headphones,Networking,South,OmniTrade,3.7,2.94,344.18,613.65,34,255,59,3,0.091,0.011,500,0
+ORD-10199,Camera,Networking,North,NextGen Wholesale,4.56,4.0,813.52,1367.15,178,435,52,4,0.018,0.038,500,0
+ORD-10200,Camera,Peripherals,North,TechSource Ltd,2.81,3.78,480.19,606.38,41,172,109,13,0.14,0.07,500,0
+ORD-10201,Tablet,Electronics,North,PrimeSupply Co,4.13,2.46,286.09,485.21,139,159,142,12,0.009,0.062,500,0
+ORD-10202,Mouse,Electronics,West,PrimeSupply Co,2.93,2.22,440.83,502.86,92,266,99,16,0.117,0.021,500,0
+ORD-10203,Monitor,Electronics,East,TechSource Ltd,3.07,2.7,201.1,318.57,112,96,53,5,0.033,0.014,500,0
+ORD-10204,Headphones,Networking,South,PrimeSupply Co,3.51,3.96,607.37,1028.65,125,177,112,6,0.053,0.042,500,0
+ORD-10205,Phone,Accessories,South,PrimeSupply Co,2.83,3.26,459.39,562.21,139,85,54,24,0.119,0.047,500,0
+ORD-10206,Keyboard,Electronics,East,OmniTrade,4.5,4.88,628.83,775.21,190,388,114,14,0.073,0.009,500,0
+ORD-10207,Tablet,Peripherals,East,TechSource Ltd,2.82,4.59,515.77,731.39,35,307,104,22,0.037,0.052,500,0
+ORD-10208,Tablet,Peripherals,West,NextGen Wholesale,4.89,2.4,739.08,1130.69,30,412,87,11,0.015,0.053,500,0
+ORD-10209,Phone,Networking,East,PrimeSupply Co,4.83,2.76,851.41,1418.64,19,47,78,2,0.117,0.066,500,1
+ORD-10210,Headphones,Peripherals,East,OmniTrade,4.72,3.35,471.13,645.66,88,213,121,18,0.132,0.008,500,0
+ORD-10211,Router,Accessories,East,GlobalParts Inc,4.29,2.22,890.03,1255.2,96,7,126,9,0.011,0.001,500,1
+ORD-10212,Headphones,Accessories,East,NextGen Wholesale,4.93,4.83,863.03,1394.88,148,313,80,15,0.118,0.028,500,0
+ORD-10213,Camera,Networking,West,TechSource Ltd,2.71,3.54,400.31,594.35,47,351,57,11,0.135,0.063,500,0
+ORD-10214,Printer,Peripherals,West,GlobalParts Inc,3.14,2.78,243.67,434.51,58,462,99,4,0.01,0.077,500,0
+ORD-10215,Phone,Peripherals,East,GlobalParts Inc,3.69,2.34,456.52,788.44,149,265,70,5,0.073,0.074,500,0
+ORD-10216,Printer,Peripherals,East,PrimeSupply Co,2.78,3.8,492.65,754.52,24,225,60,11,0.014,0.03,500,0
+ORD-10217,Keyboard,Peripherals,West,NextGen Wholesale,4.82,4.03,517.58,710.15,167,113,71,21,0.074,0.001,500,0
+ORD-10218,Mouse,Electronics,West,TechSource Ltd,4.8,2.76,893.55,1402.89,21,221,88,18,0.113,0.037,500,0
+ORD-10219,Phone,Networking,South,GlobalParts Inc,4.38,2.81,765.7,1232.73,95,134,72,13,0.081,0.058,500,0
+ORD-10220,Router,Networking,South,OmniTrade,3.72,2.45,141.75,223.92,104,435,76,19,0.051,0.033,500,0
+ORD-10221,Router,Networking,North,OmniTrade,2.88,2.28,694.46,1125.3,28,2,112,23,0.087,0.07,500,1
+ORD-10222,Keyboard,Peripherals,North,GlobalParts Inc,4.35,4.64,418.73,507.75,138,185,65,9,0.042,0.016,500,0
+ORD-10223,Mouse,Peripherals,North,OmniTrade,4.54,3.84,797.84,1244.86,137,472,59,22,0.103,0.03,500,0
+ORD-10224,Phone,Networking,North,TechSource Ltd,4.36,2.61,507.89,745.03,21,233,139,23,0.144,0.029,500,0
+ORD-10225,Monitor,Electronics,East,OmniTrade,2.81,3.16,327.89,394.85,110,69,105,20,0.097,0.062,500,1
+ORD-10226,Router,Networking,North,NextGen Wholesale,2.51,3.86,234.63,280.73,112,229,134,23,0.053,0.064,500,0
+ORD-10227,Phone,Electronics,South,OmniTrade,2.66,3.74,129.04,195.08,12,3,142,15,0.084,0.045,500,1
+ORD-10228,Printer,Peripherals,South,GlobalParts Inc,4.09,2.45,562.96,885.83,58,81,68,20,0.104,0.06,500,0
+ORD-10229,Tablet,Networking,East,GlobalParts Inc,3.43,2.37,884.67,1103.09,185,355,113,20,0.11,0.019,500,0
+ORD-10230,Laptop,Accessories,North,NextGen Wholesale,4.83,3.93,365.71,418.29,66,475,96,12,0.063,0.051,500,0
+ORD-10231,Phone,Accessories,North,TechSource Ltd,3.46,3.72,717.8,849.04,133,197,96,15,0.088,0.015,500,0
+ORD-10232,Printer,Accessories,South,TechSource Ltd,4.82,4.35,357.9,477.5,90,460,143,23,0.008,0.068,500,0
+ORD-10233,Phone,Electronics,West,NextGen Wholesale,3.59,4.81,241.71,329.65,58,319,86,21,0.106,0.05,500,0
+ORD-10234,Keyboard,Electronics,East,TechSource Ltd,2.64,2.68,92.37,160.05,79,418,50,5,0.02,0.032,500,0
+ORD-10235,Keyboard,Accessories,South,NextGen Wholesale,3.21,2.79,834.23,1193.32,115,212,79,13,0.037,0.073,500,0
+ORD-10236,Printer,Peripherals,North,PrimeSupply Co,2.66,3.46,262.11,338.22,79,181,144,11,0.005,0.005,500,0
+ORD-10237,Keyboard,Electronics,South,GlobalParts Inc,2.72,2.71,820.47,982.49,16,195,99,2,0.11,0.044,500,0
+ORD-10238,Headphones,Accessories,South,GlobalParts Inc,3.15,4.19,158.79,272.72,129,404,91,13,0.147,0.021,500,0
+ORD-10239,Mouse,Networking,East,NextGen Wholesale,4.93,3.83,606.05,750.69,124,471,98,20,0.052,0.009,500,0
+ORD-10240,Phone,Peripherals,East,OmniTrade,3.81,2.34,178.56,224.58,42,489,120,23,0.129,0.058,500,0
+ORD-10241,Camera,Peripherals,North,NextGen Wholesale,3.71,2.5,107.52,171.55,107,16,147,7,0.142,0.068,500,1
+ORD-10242,Mouse,Peripherals,South,NextGen Wholesale,3.23,4.36,618.67,880.74,95,367,100,8,0.017,0.028,500,0
+ORD-10243,Laptop,Peripherals,North,PrimeSupply Co,2.91,2.99,881.35,1459.33,30,48,113,8,0.114,0.042,500,1
+ORD-10244,Router,Electronics,East,NextGen Wholesale,4.87,3.68,224.15,384.3,164,213,141,15,0.113,0.045,500,0
+ORD-10245,Laptop,Peripherals,North,OmniTrade,3.48,4.4,519.64,605.85,106,386,121,13,0.056,0.036,500,0
+ORD-10246,Monitor,Peripherals,West,GlobalParts Inc,3.81,2.86,387.77,451.9,21,196,100,12,0.119,0.046,500,0
+ORD-10247,Camera,Accessories,East,TechSource Ltd,3.8,3.34,589.4,977.54,113,46,64,17,0.084,0.013,500,1
+ORD-10248,Printer,Accessories,East,OmniTrade,4.0,2.1,571.45,773.84,170,282,89,7,0.055,0.059,500,0
+ORD-10249,Printer,Electronics,South,NextGen Wholesale,4.71,4.41,747.32,985.87,28,477,119,15,0.076,0.077,500,0
+ORD-10250,Headphones,Networking,West,PrimeSupply Co,2.91,4.65,405.1,724.67,171,20,79,14,0.064,0.013,500,1
+ORD-10251,Headphones,Networking,West,PrimeSupply Co,3.02,3.14,60.72,90.58,171,352,117,21,0.146,0.027,500,0
+ORD-10252,Phone,Peripherals,West,NextGen Wholesale,3.68,4.46,302.02,526.34,130,133,132,13,0.069,0.029,500,0
+ORD-10253,Router,Networking,South,GlobalParts Inc,2.78,2.26,470.08,789.63,30,475,79,17,0.108,0.034,500,0
+ORD-10254,Monitor,Networking,West,OmniTrade,3.59,3.73,819.56,1325.86,194,337,107,12,0.111,0.064,500,0
+ORD-10255,Phone,Electronics,South,TechSource Ltd,3.31,4.06,767.18,980.29,171,288,133,17,0.01,0.014,500,0
+ORD-10256,Tablet,Electronics,West,TechSource Ltd,4.67,2.65,777.38,978.74,13,455,136,4,0.054,0.005,500,0
+ORD-10257,Mouse,Accessories,South,PrimeSupply Co,4.42,4.37,698.68,968.24,154,499,63,5,0.1,0.021,500,0
+ORD-10258,Phone,Peripherals,West,GlobalParts Inc,3.45,2.68,821.12,1288.76,129,406,108,3,0.057,0.01,500,0
+ORD-10259,Phone,Networking,North,TechSource Ltd,2.57,4.9,400.85,666.07,97,83,74,9,0.019,0.057,500,0
+ORD-10260,Laptop,Peripherals,East,TechSource Ltd,4.91,4.18,876.86,1471.57,182,274,122,21,0.046,0.066,500,0
+ORD-10261,Router,Accessories,East,TechSource Ltd,2.67,2.79,289.29,494.95,70,397,87,22,0.007,0.045,500,0
+ORD-10262,Phone,Peripherals,South,NextGen Wholesale,4.33,3.8,291.25,488.48,196,308,148,10,0.01,0.07,500,0
+ORD-10263,Router,Accessories,South,OmniTrade,3.1,4.38,795.67,1059.26,25,85,90,24,0.005,0.047,500,1
+ORD-10264,Camera,Peripherals,East,NextGen Wholesale,4.58,3.8,896.12,1522.5,57,254,70,6,0.017,0.008,500,0
+ORD-10265,Tablet,Accessories,West,GlobalParts Inc,3.79,3.29,823.18,1291.11,17,464,147,2,0.048,0.035,500,0
+ORD-10266,Printer,Electronics,North,GlobalParts Inc,4.08,3.78,707.8,1076.81,30,25,101,23,0.105,0.019,500,1
+ORD-10267,Phone,Electronics,South,GlobalParts Inc,4.13,4.85,485.51,569.48,76,405,125,14,0.09,0.059,500,0
+ORD-10268,Laptop,Peripherals,North,PrimeSupply Co,2.6,3.81,480.33,741.57,154,261,135,19,0.136,0.019,500,0
+ORD-10269,Monitor,Peripherals,South,GlobalParts Inc,4.03,2.84,449.2,635.76,151,108,148,9,0.031,0.041,500,1
+ORD-10270,Tablet,Peripherals,East,OmniTrade,2.77,3.02,54.68,60.44,157,189,57,12,0.12,0.046,500,0
+ORD-10271,Monitor,Accessories,North,OmniTrade,4.04,2.34,485.77,634.14,58,381,58,6,0.052,0.041,500,0
+ORD-10272,Mouse,Peripherals,North,NextGen Wholesale,4.82,2.5,793.09,1146.4,86,266,68,12,0.058,0.058,500,0
+ORD-10273,Router,Accessories,East,TechSource Ltd,4.56,4.87,799.92,1255.6,170,108,61,17,0.123,0.0,500,0
+ORD-10274,Phone,Peripherals,South,TechSource Ltd,4.01,4.06,590.94,671.19,186,492,96,24,0.017,0.031,500,0
+ORD-10275,Laptop,Networking,North,OmniTrade,4.75,3.21,437.8,594.68,93,146,77,9,0.048,0.06,500,0
+ORD-10276,Tablet,Networking,West,PrimeSupply Co,4.0,3.51,400.77,622.1,84,201,115,20,0.021,0.009,500,0
+ORD-10277,Monitor,Accessories,East,TechSource Ltd,3.82,4.49,181.17,221.08,11,453,76,22,0.149,0.066,500,0
+ORD-10278,Phone,Accessories,East,OmniTrade,3.5,4.73,640.65,943.51,54,234,114,24,0.121,0.017,500,0
+ORD-10279,Keyboard,Electronics,North,OmniTrade,4.63,3.21,446.62,746.62,191,293,77,22,0.012,0.043,500,0
+ORD-10280,Router,Networking,North,NextGen Wholesale,3.95,4.28,782.48,1184.05,165,363,147,4,0.015,0.071,500,0
+ORD-10281,Laptop,Peripherals,East,PrimeSupply Co,3.44,2.5,60.46,82.17,161,117,149,2,0.065,0.011,500,1
+ORD-10282,Tablet,Electronics,South,PrimeSupply Co,3.45,2.02,806.58,1082.52,197,147,68,11,0.058,0.063,500,0
+ORD-10283,Tablet,Networking,North,OmniTrade,4.6,3.74,556.59,651.7,171,63,118,9,0.084,0.008,500,1
+ORD-10284,Tablet,Electronics,North,NextGen Wholesale,2.84,2.3,192.26,342.3,84,413,137,4,0.031,0.074,500,0
+ORD-10285,Monitor,Peripherals,North,TechSource Ltd,2.83,4.51,402.03,553.52,39,261,108,16,0.056,0.03,500,0
+ORD-10286,Printer,Accessories,East,NextGen Wholesale,3.22,4.88,452.91,639.01,38,273,122,18,0.058,0.031,500,0
+ORD-10287,Laptop,Electronics,West,TechSource Ltd,2.92,2.74,339.33,501.86,171,164,98,14,0.126,0.028,500,0
+ORD-10288,Printer,Networking,West,GlobalParts Inc,3.18,4.9,752.79,1201.69,136,249,134,15,0.084,0.028,500,0
+ORD-10289,Mouse,Accessories,North,PrimeSupply Co,3.72,3.21,543.4,650.69,107,482,62,16,0.149,0.07,500,0
+ORD-10290,Laptop,Accessories,West,TechSource Ltd,2.87,4.56,579.9,869.02,94,249,68,6,0.107,0.073,500,0
+ORD-10291,Laptop,Peripherals,North,OmniTrade,3.65,2.11,162.52,246.24,182,353,60,23,0.112,0.044,500,0
+ORD-10292,Keyboard,Accessories,West,NextGen Wholesale,2.87,3.39,99.08,156.2,79,424,95,13,0.147,0.039,500,0
+ORD-10293,Keyboard,Accessories,North,OmniTrade,3.01,4.29,784.02,1185.53,84,249,149,7,0.058,0.041,500,0
+ORD-10294,Mouse,Networking,East,TechSource Ltd,3.61,3.81,468.48,704.64,91,178,102,15,0.089,0.065,500,0
+ORD-10295,Tablet,Peripherals,North,PrimeSupply Co,4.62,4.68,455.01,817.78,90,327,94,18,0.009,0.071,500,0
+ORD-10296,Tablet,Electronics,North,GlobalParts Inc,3.69,4.06,431.07,628.2,123,493,110,24,0.108,0.055,500,0
+ORD-10297,Tablet,Electronics,North,NextGen Wholesale,3.2,2.63,164.27,215.12,178,463,125,3,0.144,0.001,500,0
+ORD-10298,Tablet,Electronics,North,TechSource Ltd,4.34,4.5,898.15,1413.49,76,112,120,8,0.111,0.011,500,1
+ORD-10299,Headphones,Accessories,East,NextGen Wholesale,4.25,2.31,690.41,1131.06,173,127,122,2,0.06,0.058,500,0
+ORD-10300,Laptop,Networking,South,PrimeSupply Co,2.78,4.42,288.28,455.82,81,478,124,4,0.142,0.006,500,0
+ORD-10301,Camera,Peripherals,West,GlobalParts Inc,3.75,4.38,861.85,1263.3,154,15,115,9,0.106,0.004,500,1
+ORD-10302,Phone,Electronics,East,TechSource Ltd,3.5,2.88,111.97,154.74,48,110,80,3,0.023,0.021,500,0
+ORD-10303,Printer,Peripherals,East,GlobalParts Inc,4.95,3.81,68.72,103.65,167,294,114,18,0.054,0.052,500,0
+ORD-10304,Tablet,Networking,East,NextGen Wholesale,4.55,3.66,154.48,266.02,19,22,81,11,0.096,0.042,500,1
+ORD-10305,Printer,Accessories,East,PrimeSupply Co,3.91,2.36,443.7,560.95,31,52,73,16,0.138,0.058,500,1
+ORD-10306,Monitor,Electronics,North,OmniTrade,2.64,4.25,391.23,473.79,136,289,131,3,0.048,0.0,500,0
+ORD-10307,Monitor,Peripherals,East,NextGen Wholesale,3.96,3.4,484.46,548.79,96,95,135,7,0.051,0.075,500,1
+ORD-10308,Phone,Accessories,South,GlobalParts Inc,3.91,4.6,120.31,210.74,156,120,114,12,0.086,0.073,500,0
+ORD-10309,Camera,Accessories,North,OmniTrade,2.72,4.06,851.54,1188.47,188,197,105,13,0.074,0.031,500,0
+ORD-10310,Monitor,Electronics,South,GlobalParts Inc,4.69,2.55,587.81,936.2,158,393,96,24,0.042,0.01,500,0
+ORD-10311,Mouse,Electronics,North,NextGen Wholesale,5.0,2.31,624.69,1099.95,149,200,70,21,0.075,0.031,500,0
+ORD-10312,Mouse,Networking,East,TechSource Ltd,2.63,4.3,785.95,1126.41,114,495,67,15,0.062,0.066,500,0
+ORD-10313,Router,Networking,North,NextGen Wholesale,4.7,2.65,772.8,964.76,63,328,87,12,0.102,0.049,500,0
+ORD-10314,Laptop,Peripherals,West,PrimeSupply Co,3.29,3.93,301.01,359.89,12,262,85,19,0.059,0.057,500,0
+ORD-10315,Laptop,Peripherals,West,NextGen Wholesale,4.56,4.35,219.33,377.94,66,251,148,14,0.082,0.008,500,0
+ORD-10316,Laptop,Accessories,West,GlobalParts Inc,2.81,3.24,634.84,805.82,90,101,73,3,0.074,0.032,500,0
+ORD-10317,Headphones,Electronics,East,NextGen Wholesale,4.91,3.56,501.3,760.27,162,23,78,12,0.102,0.025,500,1
+ORD-10318,Laptop,Networking,North,OmniTrade,3.94,2.23,707.89,1161.68,36,103,141,13,0.057,0.029,500,1
+ORD-10319,Router,Networking,South,PrimeSupply Co,3.79,3.04,204.48,287.26,64,223,74,2,0.056,0.0,500,0
+ORD-10320,Laptop,Peripherals,West,PrimeSupply Co,2.56,4.7,304.83,473.26,60,134,149,16,0.117,0.062,500,1
+ORD-10321,Laptop,Peripherals,East,TechSource Ltd,3.12,3.45,439.3,605.62,166,131,116,10,0.112,0.038,500,0
+ORD-10322,Printer,Peripherals,East,NextGen Wholesale,4.11,3.68,99.17,175.58,187,392,54,21,0.117,0.016,500,0
+ORD-10323,Headphones,Peripherals,South,NextGen Wholesale,3.19,4.94,666.78,1022.72,54,440,75,11,0.079,0.073,500,0
+ORD-10324,Headphones,Networking,East,TechSource Ltd,3.34,4.17,189.3,293.41,61,320,98,16,0.081,0.005,500,0
+ORD-10325,Phone,Networking,East,GlobalParts Inc,3.08,2.13,636.5,1007.62,61,369,54,21,0.062,0.024,500,0
+ORD-10326,Router,Electronics,East,NextGen Wholesale,3.19,4.42,696.93,939.45,143,121,70,15,0.069,0.044,500,0
+ORD-10327,Monitor,Networking,North,PrimeSupply Co,4.74,4.02,417.89,472.52,181,477,55,9,0.021,0.08,500,0
+ORD-10328,Phone,Networking,East,PrimeSupply Co,4.09,3.49,498.15,684.61,25,491,119,10,0.061,0.076,500,0
+ORD-10329,Headphones,Peripherals,North,NextGen Wholesale,2.94,2.64,494.16,619.37,28,356,138,19,0.002,0.001,500,0
+ORD-10330,Mouse,Peripherals,North,TechSource Ltd,3.49,4.86,754.98,1217.39,116,124,147,18,0.145,0.031,500,1
+ORD-10331,Monitor,Accessories,West,NextGen Wholesale,4.17,2.49,776.09,1273.69,180,483,143,2,0.085,0.062,500,0
+ORD-10332,Laptop,Electronics,East,OmniTrade,3.07,3.9,474.06,525.48,165,73,85,6,0.033,0.026,500,1
+ORD-10333,Router,Networking,North,OmniTrade,2.57,3.44,770.84,1241.21,164,90,71,6,0.099,0.009,500,0
+ORD-10334,Mouse,Networking,East,GlobalParts Inc,2.61,4.28,295.55,407.41,138,154,83,20,0.056,0.031,500,0
+ORD-10335,Camera,Accessories,South,NextGen Wholesale,4.47,2.75,691.13,1204.57,26,112,140,15,0.085,0.029,500,1
+ORD-10336,Headphones,Electronics,South,GlobalParts Inc,2.75,3.52,608.14,771.29,157,57,75,14,0.033,0.003,500,1
+ORD-10337,Phone,Accessories,West,TechSource Ltd,3.91,3.28,80.62,98.57,148,353,90,5,0.049,0.067,500,0
+ORD-10338,Router,Electronics,South,PrimeSupply Co,3.55,4.34,172.24,241.32,142,326,75,9,0.071,0.04,500,0
+ORD-10339,Laptop,Networking,North,PrimeSupply Co,2.58,3.91,223.98,339.06,112,40,68,17,0.055,0.024,500,1
+ORD-10340,Monitor,Electronics,South,OmniTrade,4.32,4.32,797.57,1134.15,198,366,73,9,0.053,0.066,500,0
+ORD-10341,Monitor,Electronics,West,TechSource Ltd,3.48,3.64,488.31,695.5,78,180,72,14,0.08,0.047,500,0
+ORD-10342,Phone,Electronics,South,OmniTrade,3.01,2.03,102.13,138.24,144,312,59,9,0.066,0.071,500,0
+ORD-10343,Tablet,Networking,West,PrimeSupply Co,4.35,4.55,94.12,116.12,173,331,87,20,0.063,0.024,500,0
+ORD-10344,Phone,Networking,South,NextGen Wholesale,3.43,4.71,326.5,522.02,194,410,100,15,0.121,0.079,500,0
+ORD-10345,Laptop,Networking,East,PrimeSupply Co,2.7,3.63,691.11,950.44,25,148,121,18,0.106,0.013,500,0
+ORD-10346,Keyboard,Peripherals,East,PrimeSupply Co,4.0,2.89,713.54,1076.48,26,138,145,11,0.107,0.061,500,1
+ORD-10347,Router,Accessories,East,TechSource Ltd,4.83,4.48,137.14,200.18,90,216,100,5,0.105,0.057,500,0
+ORD-10348,Laptop,Accessories,North,PrimeSupply Co,4.52,2.59,442.46,771.96,171,406,88,18,0.052,0.027,500,0
+ORD-10349,Phone,Accessories,East,OmniTrade,3.91,4.84,881.75,1498.6,121,62,98,13,0.074,0.03,500,1
+ORD-10350,Printer,Networking,South,OmniTrade,2.56,4.52,188.58,311.22,122,127,117,19,0.002,0.056,500,0
+ORD-10351,Keyboard,Electronics,South,OmniTrade,3.87,4.9,874.72,1230.17,143,387,137,20,0.008,0.04,500,0
+ORD-10352,Keyboard,Electronics,South,TechSource Ltd,3.49,2.4,660.69,1125.72,156,12,113,4,0.13,0.013,500,1
+ORD-10353,Router,Peripherals,North,OmniTrade,4.49,2.75,313.32,408.27,66,375,71,20,0.094,0.046,500,0
+ORD-10354,Printer,Peripherals,West,TechSource Ltd,2.97,2.06,757.91,1314.41,133,209,129,9,0.059,0.015,500,0
+ORD-10355,Monitor,Accessories,East,PrimeSupply Co,2.67,4.35,399.91,701.64,78,4,106,15,0.043,0.035,500,1
+ORD-10356,Tablet,Accessories,East,PrimeSupply Co,4.86,3.93,632.63,843.12,176,449,143,16,0.101,0.051,500,0
+ORD-10357,Tablet,Networking,North,NextGen Wholesale,3.31,4.82,219.14,305.23,38,309,142,21,0.137,0.001,500,0
+ORD-10358,Tablet,Peripherals,East,NextGen Wholesale,3.51,4.21,432.6,771.75,165,321,55,6,0.106,0.034,500,0
+ORD-10359,Phone,Electronics,East,PrimeSupply Co,4.35,3.89,344.55,474.9,98,386,59,3,0.082,0.055,500,0
+ORD-10360,Mouse,Accessories,West,OmniTrade,3.24,2.28,172.35,261.41,29,218,78,16,0.09,0.05,500,0
+ORD-10361,Keyboard,Accessories,South,GlobalParts Inc,3.13,4.03,601.23,773.89,143,289,71,4,0.106,0.049,500,0
+ORD-10362,Keyboard,Accessories,East,OmniTrade,2.79,3.35,315.97,407.53,74,257,78,5,0.092,0.017,500,0
+ORD-10363,Camera,Networking,North,PrimeSupply Co,3.43,2.15,848.2,936.99,107,247,71,5,0.094,0.031,500,0
+ORD-10364,Phone,Peripherals,South,NextGen Wholesale,4.31,3.85,845.83,1251.32,173,82,50,11,0.111,0.017,500,0
+ORD-10365,Router,Accessories,South,NextGen Wholesale,4.73,2.25,615.25,891.27,172,282,103,19,0.121,0.069,500,0
+ORD-10366,Mouse,Accessories,North,TechSource Ltd,4.03,3.91,744.66,1086.39,101,410,75,20,0.036,0.057,500,0
+ORD-10367,Keyboard,Peripherals,North,PrimeSupply Co,2.57,3.07,127.68,158.26,56,150,145,21,0.002,0.006,500,0
+ORD-10368,Headphones,Peripherals,North,TechSource Ltd,3.99,3.12,824.49,1111.74,84,433,116,2,0.05,0.071,500,0
+ORD-10369,Headphones,Accessories,West,TechSource Ltd,4.04,4.23,375.79,543.19,140,318,126,15,0.111,0.042,500,0
+ORD-10370,Keyboard,Accessories,West,PrimeSupply Co,3.33,4.6,108.19,147.11,98,72,55,12,0.137,0.069,500,0
+ORD-10371,Printer,Networking,North,GlobalParts Inc,4.26,3.28,79.76,131.7,132,257,110,12,0.066,0.052,500,0
+ORD-10372,Monitor,Electronics,North,PrimeSupply Co,4.0,2.6,845.84,968.32,148,353,112,23,0.089,0.033,500,0
+ORD-10373,Phone,Peripherals,West,PrimeSupply Co,4.28,2.03,449.1,502.91,64,475,128,2,0.061,0.074,500,0
+ORD-10374,Mouse,Networking,West,NextGen Wholesale,4.57,3.34,145.1,212.06,118,496,123,22,0.121,0.001,500,0
+ORD-10375,Headphones,Electronics,South,GlobalParts Inc,3.38,4.49,835.88,1178.85,70,233,72,22,0.118,0.025,500,0
+ORD-10376,Laptop,Networking,West,OmniTrade,4.85,4.63,826.72,1460.79,67,35,98,11,0.015,0.031,500,1
+ORD-10377,Keyboard,Peripherals,South,PrimeSupply Co,4.19,4.51,520.37,755.68,14,149,90,23,0.129,0.06,500,0
+ORD-10378,Printer,Networking,North,OmniTrade,4.3,3.15,423.33,646.59,150,284,86,24,0.073,0.034,500,0
+ORD-10379,Tablet,Peripherals,East,PrimeSupply Co,3.24,3.62,679.53,1157.97,27,484,55,13,0.052,0.033,500,0
+ORD-10380,Laptop,Peripherals,East,OmniTrade,3.06,3.56,672.55,1154.88,124,121,59,16,0.091,0.02,500,0
+ORD-10381,Monitor,Networking,South,NextGen Wholesale,3.89,3.25,99.07,136.09,116,146,64,9,0.064,0.043,500,0
+ORD-10382,Headphones,Accessories,West,TechSource Ltd,3.53,4.61,641.97,1021.7,107,448,78,19,0.095,0.043,500,0
+ORD-10383,Printer,Networking,North,PrimeSupply Co,4.95,3.54,148.09,225.68,137,319,110,8,0.017,0.061,500,0
+ORD-10384,Monitor,Accessories,North,PrimeSupply Co,4.48,2.21,627.06,1029.06,71,102,102,2,0.071,0.045,500,0
+ORD-10385,Camera,Peripherals,West,PrimeSupply Co,4.24,4.26,584.16,924.17,165,379,65,23,0.07,0.07,500,0
+ORD-10386,Tablet,Networking,East,GlobalParts Inc,2.96,4.56,222.92,265.09,166,117,120,15,0.132,0.037,500,1
+ORD-10387,Router,Accessories,East,TechSource Ltd,3.01,2.2,114.34,156.81,137,231,67,20,0.132,0.031,500,0
+ORD-10388,Headphones,Accessories,South,TechSource Ltd,3.63,3.54,510.5,907.49,182,219,106,18,0.148,0.019,500,0
+ORD-10389,Laptop,Electronics,South,OmniTrade,4.32,3.83,851.16,961.8,191,322,132,4,0.106,0.03,500,0
+ORD-10390,Laptop,Electronics,East,NextGen Wholesale,4.15,3.45,364.06,412.02,139,478,145,12,0.001,0.064,500,0
+ORD-10391,Tablet,Peripherals,West,PrimeSupply Co,4.45,4.26,706.89,1048.95,67,408,85,9,0.12,0.041,500,0
+ORD-10392,Printer,Peripherals,East,GlobalParts Inc,2.99,4.67,169.28,265.74,101,191,93,8,0.112,0.073,500,0
+ORD-10393,Phone,Peripherals,West,TechSource Ltd,2.89,3.42,694.91,1054.88,71,63,139,5,0.107,0.022,500,1
+ORD-10394,Mouse,Electronics,South,PrimeSupply Co,4.67,4.17,221.92,292.86,103,39,108,3,0.112,0.045,500,1
+ORD-10395,Camera,Networking,North,TechSource Ltd,4.9,3.29,546.97,652.84,155,370,139,24,0.082,0.043,500,0
+ORD-10396,Tablet,Networking,South,TechSource Ltd,3.66,2.84,591.25,960.05,165,60,50,14,0.098,0.066,500,0
+ORD-10397,Printer,Networking,West,PrimeSupply Co,2.97,2.27,103.67,170.41,128,206,53,24,0.105,0.029,500,0
+ORD-10398,Printer,Networking,North,TechSource Ltd,4.7,2.73,417.49,468.34,134,62,71,7,0.084,0.003,500,1
+ORD-10399,Keyboard,Networking,South,TechSource Ltd,3.59,4.0,616.82,817.98,166,55,108,9,0.014,0.06,500,1
+ORD-10400,Printer,Electronics,South,TechSource Ltd,3.32,4.24,740.81,1181.43,149,37,97,21,0.121,0.069,500,1
+ORD-10401,Headphones,Peripherals,South,OmniTrade,4.9,4.68,897.98,1139.58,122,142,65,14,0.127,0.032,500,0
+ORD-10402,Tablet,Peripherals,South,PrimeSupply Co,4.41,3.87,61.64,71.27,168,290,135,7,0.114,0.003,500,0
+ORD-10403,Mouse,Peripherals,East,GlobalParts Inc,3.51,3.17,761.55,1167.97,94,354,52,17,0.01,0.051,500,0
+ORD-10404,Headphones,Electronics,South,GlobalParts Inc,3.99,4.78,673.05,1058.9,57,60,92,21,0.139,0.027,500,1
+ORD-10405,Laptop,Electronics,West,NextGen Wholesale,4.12,4.41,498.53,622.24,59,50,70,13,0.107,0.047,500,1
+ORD-10406,Printer,Accessories,South,OmniTrade,3.43,4.83,95.35,135.24,191,401,76,24,0.025,0.04,500,0
+ORD-10407,Laptop,Networking,West,NextGen Wholesale,2.89,3.91,637.25,1011.95,159,488,103,11,0.09,0.014,500,0
+ORD-10408,Router,Networking,West,GlobalParts Inc,2.65,4.06,649.37,921.21,151,430,130,15,0.004,0.014,500,0
+ORD-10409,Printer,Networking,South,GlobalParts Inc,4.1,4.86,435.54,617.77,140,19,143,7,0.132,0.047,500,1
+ORD-10410,Camera,Peripherals,West,NextGen Wholesale,3.39,2.16,758.72,1175.87,117,437,75,12,0.005,0.034,500,0
+ORD-10411,Router,Peripherals,East,PrimeSupply Co,4.15,2.63,121.88,185.84,183,115,104,17,0.129,0.071,500,0
+ORD-10412,Phone,Electronics,East,GlobalParts Inc,2.58,4.69,217.16,350.97,188,87,122,4,0.093,0.078,500,1
+ORD-10413,Keyboard,Networking,South,NextGen Wholesale,4.94,4.45,445.26,753.9,62,221,69,8,0.128,0.075,500,0
+ORD-10414,Keyboard,Accessories,West,TechSource Ltd,3.07,3.41,122.34,167.6,67,433,120,13,0.04,0.008,500,0
+ORD-10415,Monitor,Networking,West,TechSource Ltd,3.6,2.84,192.37,231.44,81,386,86,9,0.12,0.026,500,0
+ORD-10416,Headphones,Peripherals,West,NextGen Wholesale,3.39,4.02,304.48,384.48,37,59,59,8,0.009,0.017,500,0
+ORD-10417,Tablet,Networking,East,TechSource Ltd,3.71,2.91,737.67,887.3,31,447,87,24,0.085,0.064,500,0
+ORD-10418,Printer,Peripherals,North,GlobalParts Inc,3.18,3.46,166.58,250.95,181,423,73,4,0.012,0.037,500,0
+ORD-10419,Printer,Networking,East,PrimeSupply Co,2.98,3.04,310.49,520.28,18,105,102,3,0.082,0.079,500,0
+ORD-10420,Keyboard,Peripherals,West,NextGen Wholesale,3.91,4.3,614.57,761.74,176,462,112,24,0.141,0.001,500,0
+ORD-10421,Keyboard,Electronics,East,PrimeSupply Co,4.22,3.97,494.35,706.73,181,200,112,13,0.018,0.064,500,0
+ORD-10422,Mouse,Networking,North,GlobalParts Inc,4.72,4.45,154.75,245.89,150,186,138,9,0.077,0.059,500,0
+ORD-10423,Camera,Peripherals,South,NextGen Wholesale,3.43,3.99,485.96,830.37,81,309,53,8,0.021,0.046,500,0
+ORD-10424,Router,Accessories,North,GlobalParts Inc,4.01,3.73,207.48,268.7,159,411,52,14,0.084,0.03,500,0
+ORD-10425,Router,Networking,South,OmniTrade,4.32,3.72,717.8,916.6,186,393,52,13,0.051,0.079,500,0
+ORD-10426,Router,Electronics,North,OmniTrade,3.16,2.0,71.45,91.23,136,212,133,8,0.131,0.063,500,0
+ORD-10427,Keyboard,Networking,East,TechSource Ltd,3.38,2.28,583.23,947.86,138,437,85,2,0.073,0.074,500,0
+ORD-10428,Printer,Electronics,South,TechSource Ltd,3.97,2.02,84.05,109.6,196,263,108,16,0.116,0.056,500,0
+ORD-10429,Monitor,Accessories,South,OmniTrade,4.42,3.19,572.97,935.26,22,400,79,8,0.124,0.014,500,0
+ORD-10430,Printer,Accessories,East,NextGen Wholesale,4.18,3.4,75.89,94.34,125,54,130,9,0.116,0.01,500,1
+ORD-10431,Headphones,Networking,West,PrimeSupply Co,4.99,4.39,582.37,754.13,191,312,101,10,0.113,0.017,500,0
+ORD-10432,Tablet,Accessories,North,OmniTrade,4.81,4.09,335.61,478.57,81,236,127,9,0.092,0.016,500,0
+ORD-10433,Laptop,Electronics,West,TechSource Ltd,3.89,4.57,97.2,145.6,169,350,66,2,0.125,0.074,500,0
+ORD-10434,Mouse,Accessories,East,TechSource Ltd,2.72,2.85,361.0,477.47,63,492,113,20,0.063,0.023,500,0
+ORD-10435,Camera,Accessories,South,TechSource Ltd,3.99,3.96,332.37,433.96,165,103,132,8,0.029,0.024,500,1
+ORD-10436,Laptop,Electronics,West,PrimeSupply Co,3.2,4.89,576.67,876.39,186,243,117,23,0.002,0.057,500,0
+ORD-10437,Keyboard,Networking,North,GlobalParts Inc,3.28,4.55,650.31,998.8,113,493,132,4,0.013,0.079,500,0
+ORD-10438,Phone,Peripherals,North,TechSource Ltd,3.0,2.49,509.85,912.32,141,471,129,19,0.036,0.057,500,0
+ORD-10439,Laptop,Accessories,North,OmniTrade,3.12,3.41,282.01,377.61,76,236,74,3,0.099,0.06,500,0
+ORD-10440,Router,Accessories,East,NextGen Wholesale,4.85,4.35,690.79,1039.31,195,322,73,6,0.069,0.069,500,0
+ORD-10441,Monitor,Electronics,East,NextGen Wholesale,4.39,2.89,262.04,419.78,93,470,144,19,0.045,0.009,500,0
+ORD-10442,Camera,Accessories,North,NextGen Wholesale,4.56,2.52,424.05,683.06,186,386,70,21,0.073,0.009,500,0
+ORD-10443,Camera,Peripherals,West,OmniTrade,4.08,3.75,629.83,1111.61,55,365,101,16,0.059,0.028,500,0
+ORD-10444,Camera,Electronics,South,NextGen Wholesale,4.55,3.7,88.46,110.8,158,470,117,19,0.099,0.072,500,0
+ORD-10445,Keyboard,Networking,West,OmniTrade,4.45,2.3,389.59,517.67,70,496,121,24,0.011,0.029,500,0
+ORD-10446,Camera,Accessories,West,OmniTrade,4.35,2.1,128.34,193.74,11,196,122,17,0.099,0.043,500,0
+ORD-10447,Laptop,Peripherals,East,NextGen Wholesale,4.48,2.1,137.78,168.2,131,378,121,23,0.117,0.019,500,0
+ORD-10448,Printer,Peripherals,South,TechSource Ltd,3.05,4.97,172.66,203.91,192,344,125,2,0.086,0.011,500,0
+ORD-10449,Router,Peripherals,South,TechSource Ltd,4.74,4.38,635.45,1098.32,175,334,130,23,0.024,0.004,500,0
+ORD-10450,Mouse,Peripherals,North,PrimeSupply Co,4.78,3.7,523.71,633.28,87,165,130,17,0.027,0.011,500,0
+ORD-10451,Camera,Accessories,North,PrimeSupply Co,2.54,4.04,540.0,881.99,172,268,80,22,0.011,0.034,500,0
+ORD-10452,Phone,Accessories,South,OmniTrade,4.14,4.91,561.43,985.86,68,473,69,7,0.084,0.057,500,0
+ORD-10453,Mouse,Accessories,North,OmniTrade,4.85,3.99,108.18,150.63,72,374,64,20,0.012,0.028,500,0
+ORD-10454,Headphones,Peripherals,South,NextGen Wholesale,4.03,3.12,518.06,716.09,161,431,93,9,0.038,0.008,500,0
+ORD-10455,Laptop,Networking,West,NextGen Wholesale,3.04,2.86,351.66,488.53,121,313,63,6,0.083,0.002,500,0
+ORD-10456,Camera,Accessories,North,PrimeSupply Co,2.74,2.95,821.16,993.11,40,345,77,14,0.145,0.021,500,0
+ORD-10457,Monitor,Peripherals,North,OmniTrade,4.38,3.59,316.09,532.79,39,70,106,17,0.102,0.034,500,1
+ORD-10458,Camera,Peripherals,West,GlobalParts Inc,3.85,4.53,671.77,1126.65,103,172,72,6,0.065,0.03,500,0
+ORD-10459,Monitor,Networking,West,GlobalParts Inc,3.79,2.93,827.8,1056.12,131,145,64,9,0.086,0.026,500,0
+ORD-10460,Mouse,Electronics,North,OmniTrade,4.91,3.19,83.38,107.59,105,138,92,18,0.109,0.028,500,0
+ORD-10461,Keyboard,Peripherals,South,TechSource Ltd,4.46,2.8,620.43,1032.27,159,21,114,21,0.149,0.002,500,1
+ORD-10462,Laptop,Electronics,South,GlobalParts Inc,2.95,3.87,563.0,879.21,82,224,67,18,0.033,0.025,500,0
+ORD-10463,Tablet,Electronics,North,NextGen Wholesale,3.61,4.39,514.49,716.19,121,411,147,14,0.109,0.055,500,0
+ORD-10464,Keyboard,Accessories,West,NextGen Wholesale,3.34,2.23,339.46,564.68,125,24,127,4,0.035,0.066,500,1
+ORD-10465,Headphones,Peripherals,West,OmniTrade,2.59,4.78,856.01,1124.13,85,208,113,3,0.032,0.034,500,0
+ORD-10466,Laptop,Electronics,West,PrimeSupply Co,4.45,2.94,58.23,99.02,15,186,139,17,0.037,0.056,500,0
+ORD-10467,Camera,Networking,East,PrimeSupply Co,4.76,3.12,359.5,537.94,81,245,51,16,0.082,0.004,500,0
+ORD-10468,Router,Accessories,East,GlobalParts Inc,3.15,2.26,412.2,693.59,129,16,112,18,0.013,0.015,500,1
+ORD-10469,Printer,Networking,East,GlobalParts Inc,3.33,3.99,92.98,143.05,153,100,79,24,0.131,0.061,500,0
+ORD-10470,Mouse,Accessories,East,NextGen Wholesale,3.04,2.63,668.4,961.88,28,430,95,21,0.044,0.073,500,0
+ORD-10471,Headphones,Peripherals,North,GlobalParts Inc,2.81,2.51,515.3,831.56,159,318,85,3,0.124,0.047,500,0
+ORD-10472,Monitor,Accessories,South,NextGen Wholesale,4.72,4.69,336.9,559.93,109,426,111,23,0.045,0.018,500,0
+ORD-10473,Mouse,Electronics,East,TechSource Ltd,3.86,2.32,399.61,506.85,18,238,128,21,0.007,0.053,500,0
+ORD-10474,Tablet,Electronics,West,GlobalParts Inc,2.58,3.33,504.88,584.36,43,323,142,13,0.076,0.009,500,0
+ORD-10475,Monitor,Electronics,West,TechSource Ltd,4.09,4.96,193.7,260.77,198,162,106,22,0.115,0.035,500,0
+ORD-10476,Router,Electronics,East,GlobalParts Inc,3.0,4.8,429.48,658.45,25,471,66,17,0.103,0.066,500,0
+ORD-10477,Printer,Networking,North,GlobalParts Inc,3.68,3.48,522.76,860.29,104,409,99,13,0.029,0.052,500,0
+ORD-10478,Tablet,Networking,West,PrimeSupply Co,2.65,2.86,713.78,1180.61,117,105,73,5,0.014,0.077,500,0
+ORD-10479,Router,Networking,West,PrimeSupply Co,4.21,3.73,164.82,198.81,58,282,103,3,0.064,0.022,500,0
+ORD-10480,Camera,Accessories,North,OmniTrade,4.15,3.96,703.29,885.01,86,443,91,9,0.038,0.052,500,0
+ORD-10481,Router,Electronics,South,GlobalParts Inc,3.35,3.44,230.48,273.21,89,241,76,10,0.139,0.027,500,0
+ORD-10482,Camera,Networking,North,GlobalParts Inc,3.71,4.33,445.54,494.36,29,351,147,17,0.101,0.058,500,0
+ORD-10483,Headphones,Peripherals,East,OmniTrade,4.51,3.78,468.71,723.4,38,56,127,3,0.025,0.002,500,1
+ORD-10484,Router,Networking,West,OmniTrade,4.79,3.22,358.34,531.31,171,356,67,15,0.021,0.057,500,0
+ORD-10485,Tablet,Electronics,South,GlobalParts Inc,4.48,4.03,299.35,439.39,193,335,110,5,0.102,0.076,500,0
+ORD-10486,Tablet,Accessories,South,TechSource Ltd,4.08,3.78,301.45,331.83,158,122,65,6,0.002,0.058,500,0
+ORD-10487,Headphones,Electronics,East,NextGen Wholesale,2.84,2.28,325.0,508.8,55,141,110,8,0.125,0.073,500,0
+ORD-10488,Phone,Accessories,West,TechSource Ltd,3.25,4.67,602.32,706.16,132,371,136,9,0.002,0.026,500,0
+ORD-10489,Keyboard,Networking,East,NextGen Wholesale,4.89,3.7,521.2,627.4,150,189,136,9,0.077,0.007,500,0
+ORD-10490,Printer,Accessories,West,TechSource Ltd,3.29,2.29,516.54,705.59,138,428,118,9,0.027,0.079,500,0
+ORD-10491,Keyboard,Peripherals,East,NextGen Wholesale,3.96,4.44,427.49,629.4,29,217,65,4,0.049,0.024,500,0
+ORD-10492,Camera,Networking,North,OmniTrade,3.41,4.22,392.3,616.21,188,325,57,17,0.1,0.01,500,0
+ORD-10493,Router,Accessories,East,GlobalParts Inc,4.33,3.86,536.75,686.89,28,166,53,20,0.028,0.002,500,0
+ORD-10494,Headphones,Peripherals,West,NextGen Wholesale,3.81,2.85,291.86,411.56,51,436,135,12,0.045,0.022,500,0
+ORD-10495,Camera,Peripherals,East,TechSource Ltd,3.69,2.2,705.79,1098.44,21,239,88,20,0.007,0.024,500,0
+ORD-10496,Headphones,Networking,West,TechSource Ltd,4.0,3.96,842.66,1235.55,183,274,113,7,0.023,0.078,500,0
+ORD-10497,Monitor,Accessories,South,NextGen Wholesale,3.67,2.57,513.06,613.1,112,430,56,12,0.105,0.045,500,0
+ORD-10498,Keyboard,Accessories,North,PrimeSupply Co,4.94,4.5,354.83,616.67,130,45,102,17,0.045,0.077,500,1
+ORD-10499,Tablet,Networking,South,NextGen Wholesale,2.8,3.75,583.9,1022.67,182,6,60,23,0.145,0.03,500,1
+ORD-10500,Laptop,Networking,East,OmniTrade,4.15,4.99,102.73,137.4,44,163,63,15,0.068,0.028,500,0
+ORD-10501,Phone,Networking,North,PrimeSupply Co,4.03,3.85,390.6,461.14,115,216,100,7,0.069,0.032,500,0
+ORD-10502,Router,Electronics,East,PrimeSupply Co,2.95,2.79,437.08,607.75,178,6,71,18,0.079,0.009,500,1
+ORD-10503,Mouse,Electronics,East,NextGen Wholesale,4.34,2.63,787.94,1030.75,13,235,102,3,0.009,0.044,500,0
+ORD-10504,Camera,Electronics,West,TechSource Ltd,3.85,2.24,555.95,950.86,45,290,57,20,0.085,0.073,500,0
+ORD-10505,Router,Peripherals,South,NextGen Wholesale,3.43,3.84,386.87,505.8,196,15,148,16,0.079,0.026,500,1
+ORD-10506,Mouse,Electronics,North,OmniTrade,4.08,4.49,449.43,652.46,75,29,79,23,0.118,0.022,500,1
+ORD-10507,Monitor,Accessories,South,TechSource Ltd,2.94,4.17,849.75,1008.69,99,441,139,24,0.006,0.032,500,0
+ORD-10508,Headphones,Peripherals,North,TechSource Ltd,2.87,4.36,488.84,736.41,42,356,79,11,0.093,0.027,500,0
+ORD-10509,Laptop,Electronics,East,NextGen Wholesale,3.38,3.83,792.79,879.23,199,28,82,12,0.004,0.009,500,1
+ORD-10510,Phone,Networking,South,OmniTrade,3.61,2.15,158.03,194.77,195,209,87,6,0.123,0.066,500,0
+ORD-10511,Router,Networking,East,TechSource Ltd,4.84,3.4,549.8,740.68,181,92,137,23,0.067,0.001,500,1
+ORD-10512,Headphones,Networking,North,OmniTrade,3.7,2.06,260.29,444.16,128,166,77,20,0.123,0.066,500,0
+ORD-10513,Keyboard,Electronics,North,NextGen Wholesale,2.7,3.33,719.58,934.27,131,442,123,8,0.025,0.015,500,0
+ORD-10514,Tablet,Accessories,East,OmniTrade,3.78,3.45,221.95,304.23,47,5,61,16,0.057,0.067,500,1
+ORD-10515,Phone,Peripherals,North,GlobalParts Inc,3.93,3.7,173.53,252.31,145,84,116,14,0.132,0.045,500,1
+ORD-10516,Camera,Accessories,West,OmniTrade,4.76,3.57,865.82,981.91,178,14,120,7,0.068,0.026,500,1
+ORD-10517,Headphones,Networking,East,TechSource Ltd,4.96,4.39,550.83,781.07,21,368,138,19,0.114,0.054,500,0
+ORD-10518,Printer,Electronics,East,PrimeSupply Co,2.86,3.15,191.16,218.19,34,133,118,12,0.083,0.006,500,0
+ORD-10519,Mouse,Electronics,West,OmniTrade,3.54,2.07,53.56,84.05,146,178,105,16,0.05,0.014,500,0
+ORD-10520,Phone,Electronics,South,TechSource Ltd,3.29,3.18,133.66,236.54,33,391,55,17,0.036,0.008,500,0
+ORD-10521,Phone,Networking,North,GlobalParts Inc,3.69,4.77,202.18,335.27,54,65,123,24,0.011,0.022,500,1
+ORD-10522,Headphones,Accessories,East,TechSource Ltd,4.58,2.67,347.45,572.49,23,34,102,15,0.06,0.033,500,1
+ORD-10523,Mouse,Accessories,East,TechSource Ltd,3.18,4.19,881.49,1081.26,192,274,131,13,0.056,0.042,500,0
+ORD-10524,Tablet,Networking,North,GlobalParts Inc,4.13,3.38,107.78,132.23,107,36,75,4,0.101,0.049,500,1
+ORD-10525,Keyboard,Accessories,East,PrimeSupply Co,2.53,4.19,533.27,608.69,55,27,84,14,0.086,0.035,500,1
+ORD-10526,Headphones,Networking,West,OmniTrade,4.33,4.1,158.43,219.64,73,133,72,20,0.088,0.075,500,0
+ORD-10527,Tablet,Networking,South,GlobalParts Inc,3.29,2.67,347.38,441.4,160,404,106,8,0.01,0.066,500,0
+ORD-10528,Headphones,Networking,West,PrimeSupply Co,4.24,3.7,266.36,381.19,100,431,133,7,0.119,0.059,500,0
+ORD-10529,Camera,Peripherals,East,TechSource Ltd,2.65,4.08,568.59,819.75,126,342,69,6,0.027,0.026,500,0
+ORD-10530,Router,Networking,West,PrimeSupply Co,3.96,4.82,403.19,699.78,84,37,55,14,0.026,0.038,500,1
+ORD-10531,Headphones,Peripherals,South,TechSource Ltd,4.74,2.59,127.71,196.42,44,240,137,14,0.003,0.069,500,0
+ORD-10532,Printer,Accessories,West,OmniTrade,3.57,4.25,540.55,931.62,160,225,142,20,0.137,0.046,500,0
+ORD-10533,Monitor,Accessories,East,PrimeSupply Co,3.59,3.78,203.67,262.36,43,235,104,19,0.088,0.005,500,0
+ORD-10534,Printer,Networking,North,OmniTrade,3.21,3.2,756.81,926.43,27,286,59,21,0.122,0.001,500,0
+ORD-10535,Printer,Networking,South,GlobalParts Inc,3.33,3.67,601.97,944.02,25,136,75,5,0.106,0.053,500,0
+ORD-10536,Mouse,Electronics,North,PrimeSupply Co,4.34,2.63,736.56,1266.99,179,92,62,5,0.02,0.051,500,0
+ORD-10537,Printer,Peripherals,South,GlobalParts Inc,4.65,3.5,321.78,366.82,51,477,60,4,0.101,0.019,500,0
+ORD-10538,Mouse,Networking,East,OmniTrade,4.94,3.94,694.33,1133.15,112,129,105,24,0.14,0.024,500,0
+ORD-10539,Router,Electronics,East,NextGen Wholesale,3.48,2.39,714.61,1169.17,29,88,80,19,0.101,0.058,500,0
+ORD-10540,Phone,Electronics,South,PrimeSupply Co,3.02,2.94,538.8,670.68,91,69,116,4,0.095,0.032,500,1
+ORD-10541,Keyboard,Networking,East,NextGen Wholesale,4.49,2.97,55.79,81.81,77,317,65,10,0.115,0.011,500,0
+ORD-10542,Phone,Networking,East,GlobalParts Inc,3.72,2.33,609.06,943.49,153,29,132,18,0.037,0.025,500,1
+ORD-10543,Headphones,Accessories,North,NextGen Wholesale,4.64,4.29,737.5,1263.22,16,190,94,14,0.022,0.055,500,0
+ORD-10544,Mouse,Peripherals,West,OmniTrade,4.11,3.53,853.27,1346.27,183,408,104,18,0.018,0.025,500,0
+ORD-10545,Keyboard,Accessories,East,NextGen Wholesale,4.21,2.71,732.04,1246.66,30,77,100,17,0.142,0.07,500,1
+ORD-10546,Monitor,Networking,West,OmniTrade,3.99,2.25,296.02,487.92,138,326,58,14,0.097,0.05,500,0
+ORD-10547,Keyboard,Electronics,South,PrimeSupply Co,2.99,4.46,592.6,779.27,181,6,76,2,0.101,0.051,500,1
+ORD-10548,Printer,Peripherals,West,TechSource Ltd,4.57,4.49,391.52,589.03,185,186,130,4,0.106,0.008,500,0
+ORD-10549,Camera,Peripherals,North,OmniTrade,4.31,2.34,763.03,1197.74,133,252,110,18,0.061,0.071,500,0
+ORD-10550,Headphones,Accessories,East,OmniTrade,4.24,3.89,90.12,159.78,17,270,99,5,0.13,0.011,500,0
+ORD-10551,Router,Accessories,South,OmniTrade,4.94,3.11,880.95,1328.33,22,255,143,21,0.054,0.028,500,0
+ORD-10552,Headphones,Electronics,North,PrimeSupply Co,4.96,2.75,492.46,693.61,23,476,80,7,0.011,0.053,500,0
+ORD-10553,Camera,Networking,West,GlobalParts Inc,2.99,4.46,556.06,773.26,31,84,110,22,0.097,0.034,500,1
+ORD-10554,Keyboard,Peripherals,North,GlobalParts Inc,3.3,3.79,439.32,562.18,176,129,53,22,0.149,0.035,500,0
+ORD-10555,Headphones,Accessories,East,GlobalParts Inc,3.05,2.0,832.59,1116.93,179,104,86,9,0.137,0.068,500,0
+ORD-10556,Camera,Accessories,South,TechSource Ltd,4.82,3.29,680.95,829.04,80,421,146,19,0.018,0.041,500,0
+ORD-10557,Tablet,Electronics,South,NextGen Wholesale,4.37,4.75,346.51,472.08,114,31,82,11,0.016,0.019,500,1
+ORD-10558,Headphones,Networking,North,OmniTrade,3.35,3.33,687.72,888.64,191,112,62,19,0.101,0.041,500,0
+ORD-10559,Mouse,Networking,North,GlobalParts Inc,2.59,4.42,782.23,1334.66,67,498,79,3,0.048,0.045,500,0
+ORD-10560,Mouse,Peripherals,South,OmniTrade,2.74,4.12,287.53,473.78,123,67,98,21,0.052,0.001,500,1
+ORD-10561,Mouse,Peripherals,South,NextGen Wholesale,2.5,2.92,392.96,496.83,164,178,119,21,0.036,0.019,500,0
+ORD-10562,Phone,Accessories,East,NextGen Wholesale,3.54,3.13,107.96,132.9,69,318,106,24,0.131,0.072,500,0
+ORD-10563,Headphones,Networking,East,NextGen Wholesale,3.24,2.89,469.01,624.3,155,97,114,17,0.048,0.013,500,1
+ORD-10564,Keyboard,Peripherals,North,OmniTrade,4.4,2.13,715.69,848.63,44,55,68,13,0.13,0.009,500,1
+ORD-10565,Monitor,Electronics,South,NextGen Wholesale,4.63,2.04,196.1,281.12,132,276,102,17,0.077,0.062,500,0
+ORD-10566,Router,Accessories,East,GlobalParts Inc,3.0,2.85,844.58,1466.56,144,376,108,24,0.043,0.03,500,0
+ORD-10567,Monitor,Electronics,West,PrimeSupply Co,2.92,2.93,384.32,569.25,11,326,145,20,0.076,0.064,500,0
+ORD-10568,Phone,Accessories,West,GlobalParts Inc,3.05,2.56,678.55,1053.02,155,437,107,7,0.143,0.017,500,0
+ORD-10569,Tablet,Accessories,East,TechSource Ltd,4.63,2.35,271.78,483.42,118,96,128,5,0.106,0.04,500,1
+ORD-10570,Keyboard,Networking,West,TechSource Ltd,3.36,3.88,754.78,1098.73,166,293,129,15,0.029,0.012,500,0
+ORD-10571,Headphones,Accessories,East,NextGen Wholesale,2.67,3.0,847.35,1476.38,52,2,107,19,0.047,0.051,500,1
+ORD-10572,Camera,Peripherals,North,NextGen Wholesale,3.46,2.4,352.56,424.47,158,225,79,5,0.03,0.019,500,0
+ORD-10573,Camera,Accessories,South,NextGen Wholesale,3.41,4.47,304.91,472.6,41,55,129,10,0.031,0.038,500,1
+ORD-10574,Keyboard,Electronics,West,OmniTrade,3.0,3.24,730.8,896.04,24,291,120,14,0.011,0.046,500,0
+ORD-10575,Phone,Electronics,West,PrimeSupply Co,3.01,3.64,775.61,1246.95,175,175,92,22,0.031,0.044,500,0
+ORD-10576,Laptop,Networking,South,GlobalParts Inc,4.82,2.49,246.86,418.24,77,351,111,10,0.145,0.016,500,0
+ORD-10577,Router,Peripherals,West,OmniTrade,4.69,4.19,680.33,1008.71,118,182,78,11,0.045,0.048,500,0
+ORD-10578,Laptop,Peripherals,West,NextGen Wholesale,3.76,3.75,221.07,380.94,91,156,144,5,0.087,0.004,500,0
+ORD-10579,Laptop,Peripherals,East,PrimeSupply Co,3.56,3.03,316.94,459.39,35,475,68,21,0.144,0.036,500,0
+ORD-10580,Phone,Peripherals,East,OmniTrade,3.58,2.94,465.69,626.89,170,297,68,18,0.109,0.064,500,0
+ORD-10581,Mouse,Networking,North,PrimeSupply Co,3.86,2.12,758.0,1356.85,55,355,56,15,0.112,0.036,500,0
+ORD-10582,Headphones,Peripherals,North,NextGen Wholesale,3.66,3.86,67.02,76.65,166,143,107,9,0.072,0.053,500,0
+ORD-10583,Headphones,Networking,East,TechSource Ltd,2.57,3.14,236.26,278.55,35,333,120,2,0.016,0.043,500,0
+ORD-10584,Tablet,Peripherals,West,OmniTrade,4.91,3.61,386.41,590.9,149,107,79,18,0.093,0.054,500,0
+ORD-10585,Laptop,Networking,North,NextGen Wholesale,2.56,3.07,616.72,898.98,75,303,149,9,0.05,0.031,500,0
+ORD-10586,Phone,Peripherals,East,NextGen Wholesale,3.73,4.1,167.61,270.98,140,275,108,15,0.128,0.033,500,0
+ORD-10587,Laptop,Networking,East,OmniTrade,2.8,2.98,313.0,549.54,109,237,55,14,0.122,0.048,500,0
+ORD-10588,Keyboard,Networking,North,PrimeSupply Co,4.67,2.26,384.59,550.5,93,47,68,7,0.117,0.068,500,1
+ORD-10589,Printer,Accessories,East,PrimeSupply Co,3.84,3.91,204.55,286.62,190,377,118,24,0.029,0.017,500,0
+ORD-10590,Monitor,Electronics,West,NextGen Wholesale,4.17,3.31,85.27,113.02,115,266,87,9,0.143,0.058,500,0
+ORD-10591,Monitor,Electronics,North,PrimeSupply Co,4.32,2.36,840.64,1235.16,19,237,83,10,0.045,0.043,500,0
+ORD-10592,Monitor,Peripherals,South,TechSource Ltd,4.04,4.91,529.75,805.44,94,396,147,11,0.109,0.074,500,0
+ORD-10593,Headphones,Electronics,South,TechSource Ltd,4.01,3.47,697.88,1056.73,194,391,100,12,0.079,0.027,500,0
+ORD-10594,Headphones,Peripherals,East,NextGen Wholesale,3.59,3.97,491.42,608.52,115,211,57,5,0.066,0.022,500,0
+ORD-10595,Monitor,Accessories,West,NextGen Wholesale,3.22,4.17,524.45,704.28,144,166,69,24,0.125,0.069,500,0
+ORD-10596,Laptop,Networking,East,TechSource Ltd,4.35,3.46,318.6,540.52,60,445,55,18,0.013,0.078,500,0
+ORD-10597,Laptop,Electronics,West,GlobalParts Inc,4.46,4.25,490.31,750.14,196,381,88,2,0.069,0.068,500,0
+ORD-10598,Printer,Networking,East,TechSource Ltd,3.67,4.38,147.1,188.1,35,179,91,11,0.06,0.034,500,0
+ORD-10599,Keyboard,Electronics,South,NextGen Wholesale,3.16,3.27,375.45,601.98,11,454,82,22,0.006,0.036,500,0
